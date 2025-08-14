@@ -18,9 +18,9 @@ Modelos evaluados:
   3. Cargos mensuales
   4. Uso de servicios adicionales
 - Factores que incrementan el riesgo de cancelación:
-  - Alta sensibilidad al precio.
-  - Baja fidelización en clientes nuevos.
-  - Poca adopción de servicios adicionales.
+  1. Alta sensibilidad al precio.
+  2. Baja fidelización en clientes nuevos.
+  3. Poca adopción de servicios adicionales.
 
 #🚀 Estrategias de Retención Recomendadas
 1. Ofrecer promociones a clientes nuevos.
